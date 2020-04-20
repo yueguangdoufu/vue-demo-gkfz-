@@ -1,0 +1,65 @@
+{
+  "id": "1731000",
+  "name": "gkfz系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13203437",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "10404930",
+      "name": "管理员设置",
+      "font_class": "guanliyuan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11702406",
+      "name": "搜索--1",
+      "font_class": "soushuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12909250",
+      "name": "分类-选中",
+      "font_class": "feneli",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12942475",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13079054",
+      "name": "学校",
+      "font_class": "icon_xuexiao",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "13474637",
+      "name": "帮 助",
+      "font_class": "bangzhu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13636380",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
